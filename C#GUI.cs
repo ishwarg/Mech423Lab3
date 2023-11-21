@@ -16,7 +16,7 @@ using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.Button;
 
-namespace Lab1Exercise7
+namespace Lab3
 {
     public partial class Form1 : Form
     {
